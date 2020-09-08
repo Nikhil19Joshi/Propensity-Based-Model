@@ -24,3 +24,5 @@ UI of Web Application
 First Output of Web application
 ![image](https://user-images.githubusercontent.com/68136798/92538309-f6f07980-f203-11ea-800c-62dabe7bca8e.png)
 
+Second Output of Web application
+![image](https://user-images.githubusercontent.com/68136798/92538343-08d21c80-f204-11ea-8e99-8482771c6216.png)
