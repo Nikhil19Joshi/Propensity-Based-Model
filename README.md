@@ -17,6 +17,10 @@ In our project we have used 5 classification algorithms:
 As we can see from above Gradient Boosting algorithm has given us the best results and we have used this Algorithm for our model to predict the propensity of our customers.
 
 ## Web Application
-I have created a web Application on flask for which I have considered Gradient Boosting Algorithm as the primary model at the backend to perform the prediction. Code for the web application can be found in the folder Web_Interface_Code. Below is the screenshot of the UI of the web application.
+I have created a web Application on flask for which I have considered Gradient Boosting Algorithm as the primary model at the backend to perform the prediction. Code for the web application can be found in the folder Web_Interface_Code. Below is the screenshot of the UI of the web application.  
+UI of Web Application
 ![image](https://user-images.githubusercontent.com/68136798/92538165-9c571d80-f203-11ea-9a7b-a2c30a492849.png)
+
+First Output of Web application
+![image](https://user-images.githubusercontent.com/68136798/92538309-f6f07980-f203-11ea-800c-62dabe7bca8e.png)
 
